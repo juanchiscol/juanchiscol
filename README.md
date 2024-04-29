@@ -12,11 +12,11 @@ Soy estudiante de la carrera de Ingeniería de Sistemas, desarrollador Front-End
 ### Habilidades:
 [![My Skills](https://skillicons.dev/icons?i=git,github&perline=9)](https://skillicons.dev)
 ### Software y herramientas:
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma,netbeans,visualstudio,sqlserver&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma,netbeans,visualstudio&perline=5)](https://skillicons.dev)
 
 ### Front-end
 [![Front-end Skills](https://skillicons.dev/icons?i=html,tailwind,bootstrap,react&perline=4)](https://skillicons.dev)
   
 ### Back-end
-[![Back-end Skills](https://skillicons.dev/icons?i=flask,django,postgres,mysql&perline=5)](https://skillicons.dev)
+[![Back-end Skills](https://skillicons.dev/icons?i=flask,django,postgres,mysql,sqlserver&perline=6)](https://skillicons.dev)
 
