@@ -2,3 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=30&center=true&vCenter=true&width=900&height=100&lines=Soy+Estudiante+de+la+carrera+de+Ingeniería+de+Sistemas;Desarrollador+Front-End+%E2%9D%A4;Me+gusta+desarrollar+p%C3%A1ginas+web." alt="Typing SVG">
 </p>
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
+
+Soy estudiante de la carrera de Ingeniería de Sistemas, desarrollador Front-End y desarrolador de software, con experiencia en el desarrollo de páginasweb. Puedes encontrar todos los proyectos que eh realizado y que eh participado aquí en mi GitHub.
