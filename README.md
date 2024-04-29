@@ -19,4 +19,6 @@ Soy estudiante de la carrera de Ingeniería de Sistemas, desarrollador Front-End
   
 ### Back-end
 [![Back-end Skills](https://skillicons.dev/icons?i=flask,django,postgres,mysql&perline=6)](https://skillicons.dev)
+### Otros:
+[![My Skills](https://skillicons.dev/icons?i=photoshop,word,excel,powerpoint,outlook&perline=5)](https://skillicons.dev)
 
