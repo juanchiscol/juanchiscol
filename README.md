@@ -30,6 +30,5 @@ Soy estudiante de la carrera de Ingeniería de Sistemas, desarrollador Front-End
 <p align="center">
   <a href="https://github.com/juanchiscol">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=juanchiscol&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juanchiscol&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
