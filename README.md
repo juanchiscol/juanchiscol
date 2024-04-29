@@ -8,4 +8,4 @@
 Soy estudiante de la carrera de Ingeniería de Sistemas, desarrollador Front-End y desarrolador de software, con experiencia en el desarrollo de páginasweb. Puedes encontrar todos los proyectos que eh realizado y que eh participado aquí en mi GitHub.
 
 ### Habilidades:
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github&perline=9)](https://skillicons.dev)
