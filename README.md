@@ -9,3 +9,5 @@ Soy estudiante de la carrera de Ingeniería de Sistemas, desarrollador Front-End
 
 ### Habilidades:
 [![My Skills](https://skillicons.dev/icons?i=git,github&perline=9)](https://skillicons.dev)
+### Software y herramientas:
+[![My Skills](https://skillicons.dev/icons?i=flask,vscode,tailwind,bootstrap,react,django,postgres,mysql,html&perline=9)](https://skillicons.dev)
