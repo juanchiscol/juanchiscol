@@ -24,3 +24,12 @@ Soy estudiante de la carrera de Ingeniería de Sistemas, desarrollador Front-End
 
 ## Contacto:
 <a href="mailto:chiscolpatazcajuandavid@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-chiscolpatazcajuandavid@gmail.com-blue?style=flat-square&logo=gmail"></a>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/AprendeIngenia">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AprendeIngenia&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AprendeIngenia&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
