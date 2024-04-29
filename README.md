@@ -22,3 +22,5 @@ Soy estudiante de la carrera de Ingeniería de Sistemas, desarrollador Front-End
 ### Otros:
 [![My Skills](https://skillicons.dev/icons?i=photoshop&perline=5)](https://skillicons.dev)
 
+## Contacto:
+<a href="mailto:chiscolpatazcajuandavid@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-chiscolpatazcajuandavid@gmail.com-blue?style=flat-square&logo=gmail"></a>
