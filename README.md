@@ -5,7 +5,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
 
-Soy estudiante de la carrera de Ingeniería de Sistemas, desarrollador Front-End y desarrolador de software, con experiencia en el desarrollo de páginas web. Puedes encontrar todos los proyectos que eh realizado y que eh participado aquí en mi GitHub.
+Soy estudiante de la carrera de Ingeniería de Sistemas, desarrollador de software especializado en desarrollo Front-End, y tengo experiencia en el desarrollo de páginas web. Puedes encontrar todos los proyectos que he realizado y en los que he participado en mi GitHub.
 
 ### Lenguajes:
 [![My Skills](https://skillicons.dev/icons?i=py,java,js,css&perline=4)](https://skillicons.dev)
