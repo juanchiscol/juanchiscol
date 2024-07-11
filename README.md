@@ -27,12 +27,6 @@ Soy estudiante de la carrera de Ingeniería de Sistemas, desarrollador Front-End
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/juanchiscol">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=juanchiscol&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-</p>
-<br>
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanchiscol&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
@@ -42,3 +36,5 @@ Soy estudiante de la carrera de Ingeniería de Sistemas, desarrollador Front-End
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juanchiscol&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
+---
+[![](https://visitcount.itsvg.in/api?id=juanchiscol&icon=0&color=0)](https://visitcount.itsvg.in)
