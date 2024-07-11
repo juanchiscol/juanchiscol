@@ -36,5 +36,3 @@ Soy estudiante de la carrera de Ingeniería de Sistemas, desarrollador Front-End
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juanchiscol&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
-
-[![](https://visitcount.itsvg.in/api?id=juanchiscol&icon=0&color=0)](https://visitcount.itsvg.in) 
