@@ -32,7 +32,4 @@ Soy estudiante de la carrera de Ingeniería de Sistemas, desarrollador Front-End
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanchiscol&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
 <br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=juanchiscol&theme=tokyonight&hide_border=true)
-<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juanchiscol&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 </div>
