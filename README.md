@@ -24,12 +24,3 @@ Soy estudiante de la carrera de Ingeniería de Sistemas, desarrollador de softwa
 
 ## Contacto:
 <a href="mailto:chiscolpatazcajuandavid@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-chiscolpatazcajuandavid@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanchiscol&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
-<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=juanchiscol&theme=tokyonight&hide_border=true)
-</div>
