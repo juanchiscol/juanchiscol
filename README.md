@@ -41,25 +41,47 @@
 ---
 
 ## 📫 Contacto:
-<p align="left">
-  <a href="mailto:chiscolpatazcajuandavid@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-chiscolpatazcajuandavid@gmail.com-blue?style=flat-square&logo=gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/juan-david-chiscol-patazca/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Juan%20David-blue?style=flat-square&logo=linkedin">
-  </a>
-  <a href="https://github.com/JuanDavidCP">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-JuanDavidCP-black?style=flat-square&logo=github">
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="mailto:chiscolpatazcajuandavid@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/juan-david-chiscol-patazca/">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/JuanDavidCP">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 📊 GitHub Stats:
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanchiscol&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
+<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=juanchiscol&theme=tokyonight&hide_border=true)
+<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juanchiscol&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=juanchiscol&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanDavidCP&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDavidCP&layout=compact&theme=tokyonight" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanDavidCP&theme=tokyonight" alt="GitHub Streak" />
-</p>
+[![](https://visitcount.itsvg.in/api?id=juanchiscol&icon=0&color=0)](https://visitcount.itsvg.in)
