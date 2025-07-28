@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=36BCF7&size=28&center=true&vCenter=true&width=900&height=80&lines=Full+Stack+Developer+%F0%9F%92%BB;Estudiante+de+Ingenier%C3%ADa+de+Sistemas+%F0%9F%93%96;Apasionado+por+el+Desarrollo+Web+%F0%9F%92%8E;Laravel+%7C+InertiaJS+%7C+React+%7C+React+Native" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=36BCF7&size=28&center=true&vCenter=true&width=900&height=80&lines=Full+Stack+Developer+%F0%9F%92%BB;Estudiante+de+Ingenier%C3%ADa+de+Sistemas+%F0%9F%93%96;Apasionado+por+el+Desarrollo+Web+%F0%9F%92%8E;Laravel+%7C+InertiaJS+%7C+React+%7C+MySQL" alt="Typing SVG">
 </p>
 
 ## **Sobre mí**
@@ -19,7 +19,7 @@
 [![My Skills](https://skillicons.dev/icons?i=php,py,java,js,ts&perline=6)](https://skillicons.dev)
 
 ### 🧠 Habilidades técnicas:
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github&perline=6)](https://skillicons.dev)
 
 ### 🛠️ Software y herramientas:
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,postman,photoshop&perline=6)](https://skillicons.dev)
@@ -28,7 +28,7 @@
 [![Front-end Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,vite&perline=6)](https://skillicons.dev)
 
 ### 📱 Desarrollo móvil:
-[![Mobile Skills](https://skillicons.dev/icons?i=react&theme=light)](https://skillicons.dev) React Native
+[![Mobile Skills](https://skillicons.dev/icons?i=react&theme=light)](https://skillicons.dev)
 
 ### 🧩 Back-end:
 [![Back-end Skills](https://skillicons.dev/icons?i=laravel,php,flask,mysql,postgres&perline=6)](https://skillicons.dev)
