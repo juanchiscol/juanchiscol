@@ -27,16 +27,15 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,postman,photoshop&perline=6)](https://skillicons.dev)
 
 ### 🌐 Front-end:
-[![Front-end Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,vite,inertia&perline=6)](https://skillicons.dev)
+[![Front-end Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,vite&perline=6)](https://skillicons.dev)
 
 ### 🧩 Back-end:
 [![Back-end Skills](https://skillicons.dev/icons?i=laravel,php,django,flask,mysql,postgres&perline=6)](https://skillicons.dev)
 
 ### 📚 Otros conocimientos:
-- Arquitectura MVC
 - APIs RESTful
 - Control de versiones con Git
-- Deploy con Vercel, Heroku y cPanel
+- Deploy con Vercel
 
 ---
 
@@ -51,15 +50,4 @@
   <a href="https://github.com/JuanDavidCP">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-JuanDavidCP-black?style=flat-square&logo=github">
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanDavidCP&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDavidCP&layout=compact&theme=tokyonight" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanDavidCP&theme=tokyonight" alt="GitHub Streak" />
 </p>
