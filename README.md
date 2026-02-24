@@ -28,13 +28,14 @@ Specialized in automation, API integration, database management, and web/mobile 
 
 
 <details open>
-  <summary><h2 align="center">🌟 Featured Projects</h2></summary>
   <div align="center">
     <table style="margin:auto; border:none;">
       <tr>
-        <td align="center" width="180" style="vertical-align:middle; padding:24px 16px; background:#23272e; border-radius:18px; box-shadow:0 4px 16px #0002;">
+        <td align="center" width="180" style="vertical-align:middle; padding:20px 12px; background:#23272e; border-radius:18px; box-shadow:0 4px 16px #0002; height:250px;">
           <a href="https://github.com/juanchiscol/lead-processing-automation-n8n">
-            <img src="https://skillicons.dev/icons?i=docker,n8n,googlecloud" width="60" alt="n8n"/>
+            <img src="https://skillicons.dev/icons?i=docker" width="48" alt="docker"/>
+            <img src="https://skillicons.dev/icons?i=n8n" width="48" alt="n8n"/>
+            <img src="https://skillicons.dev/icons?i=googlecloud" width="48" alt="googlecloud"/>
             <br/>
             <b style="font-size:1.1em;">Lead Processing Automation</b>
           </a>
@@ -43,9 +44,11 @@ Specialized in automation, API integration, database management, and web/mobile 
           <br/>
           <img src="https://img.shields.io/badge/Automation-blue?style=flat-square"/>
         </td>
-        <td align="center" width="180" style="vertical-align:middle; padding:24px 16px; background:#23272e; border-radius:18px; box-shadow:0 4px 16px #0002;">
+        <td align="center" width="180" style="vertical-align:middle; padding:20px 12px; background:#23272e; border-radius:18px; box-shadow:0 4px 16px #0002; height:250px;">
           <a href="https://github.com/juanchiscol/kawsayar-frontend">
-            <img src="https://skillicons.dev/icons?i=react,expo,ts" width="60" alt="Kawsayar"/>
+            <img src="https://skillicons.dev/icons?i=react" width="48" alt="react"/>
+            <img src="https://skillicons.dev/icons?i=expo" width="48" alt="expo"/>
+            <img src="https://skillicons.dev/icons?i=ts" width="48" alt="ts"/>
             <br/>
             <b style="font-size:1.1em;">Kawsayar Frontend</b>
           </a>
@@ -54,9 +57,11 @@ Specialized in automation, API integration, database management, and web/mobile 
           <br/>
           <img src="https://img.shields.io/badge/AI%20Health-red?style=flat-square"/>
         </td>
-        <td align="center" width="180" style="vertical-align:middle; padding:24px 16px; background:#23272e; border-radius:18px; box-shadow:0 4px 16px #0002;">
+        <td align="center" width="180" style="vertical-align:middle; padding:20px 12px; background:#23272e; border-radius:18px; box-shadow:0 4px 16px #0002; height:250px;">
           <a href="https://github.com/juanchiscol/municipal-waste-management-system">
-            <img src="https://skillicons.dev/icons?i=ts,nodejs,react" width="60" alt="Waste Management"/>
+            <img src="https://skillicons.dev/icons?i=ts" width="48" alt="ts"/>
+            <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="nodejs"/>
+            <img src="https://skillicons.dev/icons?i=react" width="48" alt="react"/>
             <br/>
             <b style="font-size:1.1em;">Municipal Waste System</b>
           </a>
@@ -65,9 +70,9 @@ Specialized in automation, API integration, database management, and web/mobile 
           <br/>
           <img src="https://img.shields.io/badge/Smart%20City-green?style=flat-square"/>
         </td>
-        <td align="center" width="180" style="vertical-align:middle; padding:24px 16px; background:#23272e; border-radius:18px; box-shadow:0 4px 16px #0002;">
+        <td align="center" width="180" style="vertical-align:middle; padding:20px 12px; background:#23272e; border-radius:18px; box-shadow:0 4px 16px #0002; height:250px;">
           <a href="https://github.com/juanchiscol/ConsultaReniec">
-            <img src="https://skillicons.dev/icons?i=python" width="60" alt="Consulta Reniec"/>
+            <img src="https://skillicons.dev/icons?i=python" width="48" alt="python"/>
             <br/>
             <b style="font-size:1.1em;">Consulta Reniec</b>
           </a>
@@ -76,9 +81,10 @@ Specialized in automation, API integration, database management, and web/mobile 
           <br/>
           <img src="https://img.shields.io/badge/Public%20API-orange?style=flat-square"/>
         </td>
-        <td align="center" width="180" style="vertical-align:middle; padding:24px 16px; background:#23272e; border-radius:18px; box-shadow:0 4px 16px #0002;">
+        <td align="center" width="180" style="vertical-align:middle; padding:20px 12px; background:#23272e; border-radius:18px; box-shadow:0 4px 16px #0002; height:250px;">
           <a href="https://github.com/juanchiscol/model_anemia-detection-conjunctiva">
-            <img src="https://skillicons.dev/icons?i=python,ai" width="60" alt="Anemia Model"/>
+            <img src="https://skillicons.dev/icons?i=python" width="48" alt="python"/>
+            <img src="https://skillicons.dev/icons?i=ai" width="48" alt="ai"/>
             <br/>
             <b style="font-size:1.1em;">Anemia Detection Model</b>
           </a>
@@ -89,8 +95,6 @@ Specialized in automation, API integration, database management, and web/mobile 
         </td>
       </tr>
     </table>
-    <br/>
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="80%"/>
   </div>
 </details>
 
