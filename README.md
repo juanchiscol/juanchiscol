@@ -28,70 +28,57 @@ Specialized in automation, API integration, database management, and web/mobile 
 
 
 <details open>
-  <summary><h2 align="center">🌟 Featured Projects</h2></summary>
-  <div align="center">
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 32px; margin: 32px 0;">
-      
-      <div align="center" style="width: 180px; background: #23272f; border-radius: 18px; box-shadow: 0 4px 16px #0002; padding: 18px 10px; margin: 8px;">
-        <a href="https://github.com/juanchiscol/lead-processing-automation-n8n">
-          <img src="https://skillicons.dev/icons?i=docker,n8n,googlecloud" width="60" alt="n8n"/>
-          <br/>
-          <b>Lead Processing Automation</b>
-        </a>
-        <br/>
-        <sub>n8n · Groq AI · Google Sheets · Docker</sub>
-        <br/>
-        <img src="https://img.shields.io/badge/Automation-blue?style=flat-square"/>
+  <summary><h2>🌟 Featured Projects</h2></summary>
+  <div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center; min-height: 60vh;">
+    <div style="background: linear-gradient(135deg, #f8fafc 60%, #e0e7ff 100%); border-radius: 24px; box-shadow: 0 4px 24px rgba(80,80,120,0.08); padding: 32px 16px; max-width: 1100px; margin: 0 auto;">
+      <h2 style="margin-bottom: 32px; color: #4f46e5; font-size: 2.2rem; font-weight: 800; letter-spacing: 1px; text-align: center;">🚀 Proyectos Destacados</h2>
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 32px;">
+        <div style="display: flex; flex-direction: column; align-items: center; width: 180px; background: #fff; border-radius: 16px; box-shadow: 0 2px 8px rgba(80,80,120,0.07); padding: 18px 10px;">
+          <a href="https://github.com/juanchiscol/lead-processing-automation-n8n">
+            <img src="https://skillicons.dev/icons?i=docker,n8n,googlecloud" width="60" alt="n8n"/>
+            <br/>
+            <b>Lead Processing Automation</b>
+          </a>
+          <sub>n8n · Groq AI · Google Sheets · Docker</sub>
+          <img src="https://img.shields.io/badge/Automation-blue?style=flat-square" style="margin-top: 6px;"/>
+        </div>
+        <div style="display: flex; flex-direction: column; align-items: center; width: 180px; background: #fff; border-radius: 16px; box-shadow: 0 2px 8px rgba(80,80,120,0.07); padding: 18px 10px;">
+          <a href="https://github.com/juanchiscol/kawsayar-frontend">
+            <img src="https://skillicons.dev/icons?i=react,expo,ts" width="60" alt="Kawsayar"/>
+            <br/>
+            <b>Kawsayar Frontend</b>
+          </a>
+          <sub>Expo · React Native · TypeScript · AI</sub>
+          <img src="https://img.shields.io/badge/AI%20Health-red?style=flat-square" style="margin-top: 6px;"/>
+        </div>
+        <div style="display: flex; flex-direction: column; align-items: center; width: 180px; background: #fff; border-radius: 16px; box-shadow: 0 2px 8px rgba(80,80,120,0.07); padding: 18px 10px;">
+          <a href="https://github.com/juanchiscol/municipal-waste-management-system">
+            <img src="https://skillicons.dev/icons?i=ts,nodejs,react" width="60" alt="Waste Management"/>
+            <br/>
+            <b>Municipal Waste System</b>
+          </a>
+          <sub>Full Stack · Automation · Dashboard</sub>
+          <img src="https://img.shields.io/badge/Smart%20City-green?style=flat-square" style="margin-top: 6px;"/>
+        </div>
+        <div style="display: flex; flex-direction: column; align-items: center; width: 180px; background: #fff; border-radius: 16px; box-shadow: 0 2px 8px rgba(80,80,120,0.07); padding: 18px 10px;">
+          <a href="https://github.com/juanchiscol/ConsultaReniec">
+            <img src="https://skillicons.dev/icons?i=python" width="60" alt="Consulta Reniec"/>
+            <br/>
+            <b>Consulta Reniec</b>
+          </a>
+          <sub>API · Perú · Data Query</sub>
+          <img src="https://img.shields.io/badge/Public%20API-orange?style=flat-square" style="margin-top: 6px;"/>
+        </div>
+        <div style="display: flex; flex-direction: column; align-items: center; width: 180px; background: #fff; border-radius: 16px; box-shadow: 0 2px 8px rgba(80,80,120,0.07); padding: 18px 10px;">
+          <a href="https://github.com/juanchiscol/model_anemia-detection-conjunctiva">
+            <img src="https://skillicons.dev/icons?i=python,ai" width="60" alt="Anemia Model"/>
+            <br/>
+            <b>Anemia Detection Model</b>
+          </a>
+          <sub>AI · Health · Research</sub>
+          <img src="https://img.shields.io/badge/ML%20Model-purple?style=flat-square" style="margin-top: 6px;"/>
+        </div>
       </div>
-
-      <div align="center" style="width: 180px; background: #23272f; border-radius: 18px; box-shadow: 0 4px 16px #0002; padding: 18px 10px; margin: 8px;">
-        <a href="https://github.com/juanchiscol/kawsayar-frontend">
-          <img src="https://skillicons.dev/icons?i=react,expo,ts" width="60" alt="Kawsayar"/>
-          <br/>
-          <b>Kawsayar Frontend</b>
-        </a>
-        <br/>
-        <sub>Expo · React Native · TypeScript · AI</sub>
-        <br/>
-        <img src="https://img.shields.io/badge/AI%20Health-red?style=flat-square"/>
-      </div>
-
-      <div align="center" style="width: 180px; background: #23272f; border-radius: 18px; box-shadow: 0 4px 16px #0002; padding: 18px 10px; margin: 8px;">
-        <a href="https://github.com/juanchiscol/municipal-waste-management-system">
-          <img src="https://skillicons.dev/icons?i=ts,nodejs,react" width="60" alt="Waste Management"/>
-          <br/>
-          <b>Municipal Waste System</b>
-        </a>
-        <br/>
-        <sub>Full Stack · Automation · Dashboard</sub>
-        <br/>
-        <img src="https://img.shields.io/badge/Smart%20City-green?style=flat-square"/>
-      </div>
-
-      <div align="center" style="width: 180px; background: #23272f; border-radius: 18px; box-shadow: 0 4px 16px #0002; padding: 18px 10px; margin: 8px;">
-        <a href="https://github.com/juanchiscol/ConsultaReniec">
-          <img src="https://skillicons.dev/icons?i=python" width="60" alt="Consulta Reniec"/>
-          <br/>
-          <b>Consulta Reniec</b>
-        </a>
-        <br/>
-        <sub>API · Perú · Data Query</sub>
-        <br/>
-        <img src="https://img.shields.io/badge/Public%20API-orange?style=flat-square"/>
-      </div>
-
-      <div align="center" style="width: 180px; background: #23272f; border-radius: 18px; box-shadow: 0 4px 16px #0002; padding: 18px 10px; margin: 8px;">
-        <a href="https://github.com/juanchiscol/model_anemia-detection-conjunctiva">
-          <img src="https://skillicons.dev/icons?i=python,ai" width="60" alt="Anemia Model"/>
-          <br/>
-          <b>Anemia Detection Model</b>
-        </a>
-        <br/>
-        <sub>AI · Health · Research</sub>
-        <br/>
-        <img src="https://img.shields.io/badge/ML%20Model-purple?style=flat-square"/>
-      </div>
-
     </div>
   </div>
 </details>
