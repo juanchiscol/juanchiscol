@@ -2,30 +2,21 @@
 
 # Juan David Chiscol Patazca
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Full+Stack+Web+%26+Mobile+Developer;Systems+%26+Computer+Engineer;Automation+%26+API+Integration)](https://git.io/typing-svg)
-
-**Bachelor's Degree in Systems and Computer Engineering**
-
-</div>
-
----
-
 ## 👨‍💻 About Me
 
-Systems and Computer Engineer passionate about building scalable products and automating everything possible.
+**Bachelor’s Degree in Systems and Computer Engineering | Full Stack Web/Mobile Developer | Database Management & Server Deployment**
 
-- 🔭 Currently working on **AI-powered automation workflows** with n8n and Groq
-- 🌱 Exploring **LLM integrations** and **computer vision** applied to health
-- 🇵🇪 Based in Perú, building for the world
-- ⚡ I enjoy turning complex problems into clean, deployable solutions
-
----
+🔭 Currently working on AI-powered automation workflows with n8n  
+💻 Experienced in designing, developing, and deploying scalable web and mobile applications  
+🗄 Strong background in database management and production server environments  
+🌎 Based in Perú, building technology solutions with global impact  
+⚡ Focused on turning complex problems into clean, efficient, and deployable systems
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-| | |
+| **Category** | **Technologies** |
 |---|---|
 | 🚀 **Languages** | [![Languages](https://skillicons.dev/icons?i=php,py,java,js,ts&perline=8)](https://skillicons.dev) |
 | 🌐 **Frontend** | [![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,vite&perline=8)](https://skillicons.dev) |
