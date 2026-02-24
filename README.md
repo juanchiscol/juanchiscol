@@ -10,11 +10,11 @@
 
 ## 🚀 About Me
 
-🎓 Bachelor’s Degree in Systems and Computer Engineering, passionate about technology and digital innovation.
+Bachelor’s Degree in Systems and Computer Engineering, passionate about technology and digital innovation.
 
-💻 Full Stack Developer experienced in **Laravel**, **Flutter**, **React/React Native**, **n8n**, **QA**, **Bostrapp**, **Oracle**, **WordPress**, and server deployment.
+Full Stack Developer experienced in **Laravel**, **Flutter**, **React/React Native**, **n8n**, **QA**, **Bostrapp**, **Oracle**, **WordPress**, and server deployment.
 
-🌎 Specialized in automation, API integration, database management, and web/mobile app deployment.
+Specialized in automation, API integration, database management, and web/mobile app deployment.
 
 ## 🛠️ Tech Stack & Tools
 <div align="center">
@@ -67,7 +67,7 @@
       </td>
       <td align="center" width="160">
         <a href="https://github.com/juanchiscol/ConsultaReniec">
-          <img src="https://skillicons.dev/icons?i=api,python" width="60" alt="Consulta Reniec"/>
+          <img src="https://skillicons.dev/icons?i=python" width="60" alt="Consulta Reniec"/>
           <br/>
           <b>Consulta Reniec</b>
         </a>
