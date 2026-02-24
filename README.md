@@ -1,6 +1,7 @@
 <div align="center">
 
 # Juan David Chiscol Patazca
+</div>
 
 ## 👨‍💻 About Me
 
