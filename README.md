@@ -1,8 +1,6 @@
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/121807078?v=4" width="120" style="border-radius:50%" alt="juanchiscol"/>
   <h1>Juan David Chiscol Patazca</h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   <br/>
   <b>Bachelor’s Degree in Systems and Computer Engineering</b><br/>
   <b>Full Stack Web/Mobile Developer</b><br/>
@@ -18,8 +16,6 @@
 
 🌎 Specialized in automation, API integration, database management, and web/mobile app deployment.
 
----
-
 ## 🛠️ Tech Stack & Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,flutter,python,java,html,css,tailwind,bootstrap,wordpress,mysql,postgres,linux,git,github,vscode,figma,postman,docker"/>
@@ -29,8 +25,6 @@
 **Database:** MySQL, PostgreSQL, Oracle<br>
 **DevOps & Deployment:** Docker, Vercel, Server Management<br>
 **Other:** API Integration, Automated Workflows, QA Testing
-
----
 
 ## 🌟 Featured Projects
 
@@ -43,12 +37,11 @@ Mobile app for non-invasive anemia detection using AI and image processing. Expo
 ### [municipal-waste-management-system](https://github.com/juanchiscol/municipal-waste-management-system)
 Municipal waste management system. Full Stack TypeScript, automation, and dashboard.
 
-### [ConsultaReniec](https://github.com/juanchiscol/ConsultaReniec)
+### [consulta-reniec](https://github.com/juanchiscol/ConsultaReniec)
 Public API integration for citizen data queries in Peru.
 
-### Others: **TEC**, **QA Automation**, **Bostrapp**, **WordPress Deployments**, **Oracle DB Projects**
-
----
+### [model_anemia-detection-conjunctiva](https://github.com/juanchiscol/model_anemia-detection-conjunctiva)
+Model for Predicting Anemia in Children Under 5 Years of Age in Pimentel Using the Palpebral Conjunctiva
 
 ## 📫 Contact
 <div align="center">
@@ -63,26 +56,25 @@ Public API integration for citizen data queries in Peru.
   </a>
 </div>
 
----
+## 📊 GitHub Stats:
 
-## 📊 GitHub Stats & Badges
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanchiscol&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanchiscol&theme=tokyonight&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanchiscol&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=juanchiscol&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanchiscol&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
+<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=juanchiscol&theme=tokyonight&hide_border=true)
+<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juanchiscol&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=juanchiscol&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 </div>
 
 ---
-
----
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in/api?id=juanchiscol&icon=0&color=0">
-    <img src="https://visitcount.itsvg.in/api?id=juanchiscol&icon=0&color=0" alt="Profile views"/>
-  </a>
-</div>
----
+[![](https://visitcount.itsvg.in/api?id=juanchiscol&icon=0&color=0)](https://visitcount.itsvg.in)
