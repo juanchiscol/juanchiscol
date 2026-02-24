@@ -30,12 +30,12 @@
 ## 🌟 Featured Projects
 
 <div align="center">
-  
   <table>
     <tr>
-      <td align="center" width="180">
+      <td align="center" width="160">
         <a href="https://github.com/juanchiscol/lead-processing-automation-n8n">
-          <img src="https://skillicons.dev/icons?i=docker,n8n,googlecloud" width="80" alt="n8n"/><br/>
+          <img src="https://skillicons.dev/icons?i=docker,n8n,googlecloud" width="60" alt="n8n"/>
+          <br/>
           <b>Lead Processing Automation</b>
         </a>
         <br/>
@@ -43,9 +43,10 @@
         <br/>
         <img src="https://img.shields.io/badge/Automation-blue?style=flat-square"/>
       </td>
-      <td align="center" width="180">
+      <td align="center" width="160">
         <a href="https://github.com/juanchiscol/kawsayar-frontend">
-          <img src="https://skillicons.dev/icons?i=react,expo,ts" width="80" alt="Kawsayar"/><br/>
+          <img src="https://skillicons.dev/icons?i=react,expo,ts" width="60" alt="Kawsayar"/>
+          <br/>
           <b>Kawsayar Frontend</b>
         </a>
         <br/>
@@ -53,9 +54,10 @@
         <br/>
         <img src="https://img.shields.io/badge/AI%20Health-red?style=flat-square"/>
       </td>
-      <td align="center" width="180">
+      <td align="center" width="160">
         <a href="https://github.com/juanchiscol/municipal-waste-management-system">
-          <img src="https://skillicons.dev/icons?i=ts,nodejs,react" width="80" alt="Waste Management"/><br/>
+          <img src="https://skillicons.dev/icons?i=ts,nodejs,react" width="60" alt="Waste Management"/>
+          <br/>
           <b>Municipal Waste System</b>
         </a>
         <br/>
@@ -63,11 +65,10 @@
         <br/>
         <img src="https://img.shields.io/badge/Smart%20City-green?style=flat-square"/>
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="180">
+      <td align="center" width="160">
         <a href="https://github.com/juanchiscol/ConsultaReniec">
-          <img src="https://skillicons.dev/icons?i=api,python" width="80" alt="Consulta Reniec"/><br/>
+          <img src="https://skillicons.dev/icons?i=api,python" width="60" alt="Consulta Reniec"/>
+          <br/>
           <b>Consulta Reniec</b>
         </a>
         <br/>
@@ -75,9 +76,10 @@
         <br/>
         <img src="https://img.shields.io/badge/Public%20API-orange?style=flat-square"/>
       </td>
-      <td align="center" width="180">
+      <td align="center" width="160">
         <a href="https://github.com/juanchiscol/model_anemia-detection-conjunctiva">
-          <img src="https://skillicons.dev/icons?i=python,ai" width="80" alt="Anemia Model"/><br/>
+          <img src="https://skillicons.dev/icons?i=python,ai" width="60" alt="Anemia Model"/>
+          <br/>
           <b>Anemia Detection Model</b>
         </a>
         <br/>
@@ -85,10 +87,8 @@
         <br/>
         <img src="https://img.shields.io/badge/ML%20Model-purple?style=flat-square"/>
       </td>
-      <td></td>
     </tr>
   </table>
-
 </div>
 
 ## 📫 Contact
