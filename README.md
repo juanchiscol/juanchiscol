@@ -1,224 +1,164 @@
-</p>
 
----
-
-## 📫 Contacto
-
-<p align="center">
-  <a href="mailto:chiscolpatazcajuandavid@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/juanchiscol/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/juanchiscol"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in/api?id=juanchiscol&icon=0&color=0"><img src="https://visitcount.itsvg.in/api?id=juanchiscol&icon=0&color=0"/></a>
-</p>
-</p>
-
----
-
-## 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanchiscol&theme=tokyonight&hide_border=true"/>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/121807078?v=4" width="120" style="border-radius:50%" alt="juanchiscol"/>
+  <h1>Juan David Chiscol Patazca</h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanchiscol&theme=tokyonight&hide_border=true"/>
+  <b>Bachelor’s Degree in Systems and Computer Engineering</b><br/>
+  <b>Full Stack Web/Mobile Developer</b><br/>
+  <b>Database Management & Server Deployment</b>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanchiscol&theme=tokyonight&hide_border=true&layout=compact"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=juanchiscol&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
-</p>
-
-</ul>
+  <a href="#english">English version below ⬇️</a>
+</div>
 
 ---
 
-## 🛠️ Tecnologías
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=36BCF7&size=28&center=true&vCenter=true&width=900&height=80&lines=Full+Stack+Developer+%F0%9F%92%BB;Ingeniero+de+Sistemas+%F0%9F%93%96;Web+%2F+Mobile+Solutions+%F0%9F%92%8E;Laravel+%7C+Flutter+%7C+n8n+%7C+QA+%7C+Bostrapp+%7C+Oracle+%7C+WordPress" alt="Typing SVG">
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,py,java,js,ts,laravel,react,reactnative,flutter,n8n,mysql,postgres,oracle,wordpress,bootstrap,git,github,vscode,figma,postman,photoshop&perline=8"/>
-</p>
 
-- 🌎 Ubicado en Perú
 
----
+## 🚀 Sobre mí
 
-## 🚩 Proyectos Destacados
+🎓 Bachiller en Ingeniería de Sistemas y Computación, apasionado por la tecnología y el desarrollo de soluciones digitales innovadoras.
 
-<ul>
-  <li><a href="https://github.com/juanchiscol/lead-processing-automation-n8n"><b>Lead Processing Automation (n8n)</b></a> – Automatización de flujos para gestión de leads</li>
-  <li><a href="https://github.com/juanchiscol/kawsayar-frontend"><b>Kawsayar Frontend</b></a> – Frontend web moderno</li>
-  <li><a href="https://github.com/juanchiscol/tec"><b>TEC</b></a> – Plataforma de tecnología y educación</li>
-  <li><a href="https://github.com/juanchiscol/municipal-waste-management-system"><b>Municipal Waste Management System</b></a> – Gestión inteligente de residuos con TypeScript</li>
-  <li><a href="https://github.com/juanchiscol/model_anemia-detection-conjunctiva"><b>Modelo de Detección de Anemia</b></a> – IA para detección de anemia en niños</li>
-</ul>
+💻 Full Stack Developer con experiencia en **Laravel**, **Flutter**, **React/React Native**, **n8n**, **QA**, **Bostrapp**, **Oracle**, **WordPress** y despliegue en servidores.
+
+🌎 Me especializo en automatización, integración de APIs, gestión de bases de datos y despliegue de aplicaciones web/móviles.
 
 ---
 
-<div id="espanol"></div>
-## 👨‍💻 Sobre mí
 
-- 🎓 Bachiller en Ingeniería de Sistemas y Computación
-- 💻 Desarrollador Full Stack con experiencia en <b>Laravel</b>, <b>InertiaJS</b>, <b>React</b>, <b>React Native</b>, <b>Flutter</b>, <b>n8n</b>, <b>MySQL</b>, <b>PostgreSQL</b>, <b>Oracle</b>, <b>WordPress</b>, <b>QA</b>, <b>Bootstrap</b>, <b>Despliegue en servidores</b>
-- 🚀 Apasionado por crear soluciones web y móviles escalables
-- 🌎 Ubicado en Perú
+## 🛠️ Tech Stack & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,flutter,python,java,html,css,tailwind,bootstrap,wordpress,mysql,postgres,oracle,git,github,vscode,figma,postman,docker"/>
+</div>
 
-</p>
+**Frameworks & Platforms:** Laravel, Flutter, React, React Native, n8n, QA, Bostrapp, WordPress<br>
+**Database:** MySQL, PostgreSQL, Oracle<br>
+**DevOps & Deployment:** Docker, Vercel, Server Management<br>
+**Other:** API Integration, Automated Workflows, QA Testing
+
+---
+
+## 🌟 Featured Projects / Proyectos Destacados
+
+### [lead-processing-automation-n8n](https://github.com/juanchiscol/lead-processing-automation-n8n)
+Automatización de leads con n8n y Groq AI. Clasificación inteligente, integración con Google Sheets y respuestas automáticas por email. Despliegue en Docker/n8n Cloud.
+
+### [kawsayar-frontend](https://github.com/juanchiscol/kawsayar-frontend)
+App móvil para detección no invasiva de anemia usando IA y procesamiento de imágenes. Expo, React Native, TypeScript, integración con backend propio.
+
+### [municipal-waste-management-system](https://github.com/juanchiscol/municipal-waste-management-system)
+Sistema de gestión de residuos municipales. Full Stack TypeScript, automatización y panel de control.
+
+### [ConsultaReniec](https://github.com/juanchiscol/ConsultaReniec)
+Integración de APIs públicas para consulta de datos ciudadanos en Perú.
+
+### Otros: **TEC**, **QA Automation**, **Bostrapp**, **WordPress Deployments**, **Oracle DB Projects**
+
+---
 
 ---
 
 ## 📫 Contact
-
-<p align="center">
-  <a href="mailto:chiscolpatazcajuandavid@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/juanchiscol/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/juanchiscol"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in/api?id=juanchiscol&icon=0&color=0"><img src="https://visitcount.itsvg.in/api?id=juanchiscol&icon=0&color=0"/></a>
-</p>
+<div align="center">
+  <a href="mailto:chiscolpatazcajuandavid@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/juanchiscol/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/juanchiscol">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+      </td>
+</div>
 
 ---
-</p>
 
----
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanchiscol&theme=tokyonight&hide_border=true"/>
+## 📊 GitHub Stats & Badges
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juanchiscol&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanchiscol&theme=tokyonight&hide_border=true"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanchiscol&theme=tokyonight&hide_border=true&layout=compact"/>
-</p>
-
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanchiscol&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+  <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=juanchiscol&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
-</p>
-
-</ul>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,py,java,js,ts,laravel,react,reactnative,flutter,n8n,mysql,postgres,oracle,wordpress,bootstrap,git,github,vscode,figma,postman,photoshop&perline=8"/>
-</p>
-
-- 🌎 Based in Peru
-
----
-
-## 🚩 Featured Projects
-
-<ul>
-  <li><a href="https://github.com/juanchiscol/lead-processing-automation-n8n"><b>Lead Processing Automation (n8n)</b></a> – Workflow automation for lead management</li>
-  <li><a href="https://github.com/juanchiscol/kawsayar-frontend"><b>Kawsayar Frontend</b></a> – Modern web frontend project</li>
-  <li><a href="https://github.com/juanchiscol/tec"><b>TEC</b></a> – Technology and education platform</li>
-  <li><a href="https://github.com/juanchiscol/municipal-waste-management-system"><b>Municipal Waste Management System</b></a> – Smart waste management with TypeScript</li>
-  <li><a href="https://github.com/juanchiscol/model_anemia-detection-conjunctiva"><b>Anemia Detection Model</b></a> – AI for anemia detection in children</li>
-</ul>
-
----
-
-<div id="english"></div>
-## 👨‍💻 About Me
-
-- 🎓 Bachelor’s Degree in Systems and Computer Engineering
-- 💻 Full Stack Developer experienced in <b>Laravel</b>, <b>InertiaJS</b>, <b>React</b>, <b>React Native</b>, <b>Flutter</b>, <b>n8n</b>, <b>MySQL</b>, <b>PostgreSQL</b>, <b>Oracle</b>, <b>WordPress</b>, <b>QA</b>, <b>Bootstrap</b>, <b>Server Deployment</b>
-- 🚀 Passionate about building scalable web and mobile solutions
-- 🌎 Based in Peru
-
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/121807078?v=4" width="120" style="border-radius:50%" alt="Juan David Chiscol"/>
-  <h1><b>Juan David Chiscol Patazca</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-  <p><b>Bachelor’s Degree in Systems and Computer Engineering</b></p>
-  <p>Full Stack Web/Mobile Developer | Database Management & Server Deployment</p>
-  <a href="#english">🇬🇧 English</a> | <a href="#espanol">🇪🇸 Español</a>
 </div>
 
 ---
 
-## **Sobre mí**
-
-🎓 Soy estudiante de Ingeniería de Sistemas (10mo ciclo) con pasión por la programación y el desarrollo de soluciones web.
-
-💻 Desarrollador **Full Stack** con experiencia en **Laravel + InertiaJS**, **React**, **React Native**, y **MySQL**.
-
 ---
 
-### 🚀 Lenguajes de programación:
-[![My Skills](https://skillicons.dev/icons?i=php,py,java,js,ts&perline=6)](https://skillicons.dev)
-
-### 🧠 Habilidades técnicas:
-[![My Skills](https://skillicons.dev/icons?i=git,github&perline=6)](https://skillicons.dev)
-
-### 🛠️ Software y herramientas:
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma,postman,photoshop&perline=6)](https://skillicons.dev)
-
-### 🌐 Front-end:
-[![Front-end Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,vite&perline=6)](https://skillicons.dev)
-
-### 📱 Desarrollo móvil:
-[![Mobile Skills](https://skillicons.dev/icons?i=react&theme=light)](https://skillicons.dev)
-
-### 🧩 Back-end:
-[![Back-end Skills](https://skillicons.dev/icons?i=laravel,php,flask,mysql,postgres&perline=6)](https://skillicons.dev)
-
-### 📚 Otros conocimientos:
-- APIs RESTful
-- Control de versiones con Git
-- Deploy con Vercel
-
----
-
-## 📫 Contacto:
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="mailto:chiscolpatazcajuandavid@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.linkedin.com/in/chiscol-patazca-juan/">
-          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/juanchiscol">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 📊 GitHub Stats:
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanchiscol&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
-<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=juanchiscol&theme=tokyonight&hide_border=true)
-<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juanchiscol&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=juanchiscol&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+  <a href="https://visitcount.itsvg.in/api?id=juanchiscol&icon=0&color=0">
+    <img src="https://visitcount.itsvg.in/api?id=juanchiscol&icon=0&color=0" alt="Profile views"/>
+  </a>
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=juanchiscol&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<h2 id="english">🇬🇧 English Version</h2>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=36BCF7&size=28&center=true&vCenter=true&width=900&height=80&lines=Full+Stack+Developer+%F0%9F%92%BB;Systems+Engineer+%F0%9F%93%96;Web+%2F+Mobile+Solutions+%F0%9F%92%8E;Laravel+%7C+Flutter+%7C+n8n+%7C+QA+%7C+Bostrapp+%7C+Oracle+%7C+WordPress" alt="Typing SVG">
+</div>
+
+## 🚀 About Me
+
+🎓 Bachelor’s Degree in Systems and Computer Engineering, passionate about technology and digital innovation.
+
+💻 Full Stack Developer experienced in **Laravel**, **Flutter**, **React/React Native**, **n8n**, **QA**, **Bostrapp**, **Oracle**, **WordPress**, and server deployment.
+
+🌎 Specialized in automation, API integration, database management, and web/mobile app deployment.
+
+---
+
+## 🛠️ Tech Stack & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,flutter,python,java,html,css,tailwind,bootstrap,wordpress,mysql,postgres,oracle,git,github,vscode,figma,postman,docker"/>
+</div>
+
+**Frameworks & Platforms:** Laravel, Flutter, React, React Native, n8n, QA, Bostrapp, WordPress<br>
+**Database:** MySQL, PostgreSQL, Oracle<br>
+**DevOps & Deployment:** Docker, Vercel, Server Management<br>
+**Other:** API Integration, Automated Workflows, QA Testing
+
+---
+
+## 🌟 Featured Projects
+
+### [lead-processing-automation-n8n](https://github.com/juanchiscol/lead-processing-automation-n8n)
+Lead automation with n8n and Groq AI. Smart classification, Google Sheets integration, and automated email responses. Docker/n8n Cloud deployment.
+
+### [kawsayar-frontend](https://github.com/juanchiscol/kawsayar-frontend)
+Mobile app for non-invasive anemia detection using AI and image processing. Expo, React Native, TypeScript, custom backend integration.
+
+### [municipal-waste-management-system](https://github.com/juanchiscol/municipal-waste-management-system)
+Municipal waste management system. Full Stack TypeScript, automation, and dashboard.
+
+### [ConsultaReniec](https://github.com/juanchiscol/ConsultaReniec)
+Public API integration for citizen data queries in Peru.
+
+### Others: **TEC**, **QA Automation**, **Bostrapp**, **WordPress Deployments**, **Oracle DB Projects**
+
+---
+
+## 📫 Contact
+<div align="center">
+  <a href="mailto:chiscolpatazcajuandavid@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/juanchiscol/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/juanchiscol">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+---
