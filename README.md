@@ -26,22 +26,70 @@
 **DevOps & Deployment:** Docker, Vercel, Server Management<br>
 **Other:** API Integration, Automated Workflows, QA Testing
 
+
 ## 🌟 Featured Projects
 
-### [lead-processing-automation-n8n](https://github.com/juanchiscol/lead-processing-automation-n8n)
-Lead automation with n8n and Groq AI. Smart classification, Google Sheets integration, and automated email responses. Docker/n8n Cloud deployment.
+<div align="center">
+  
+  <table>
+    <tr>
+      <td align="center" width="180">
+        <a href="https://github.com/juanchiscol/lead-processing-automation-n8n">
+          <img src="https://skillicons.dev/icons?i=docker,n8n,googlecloud" width="80" alt="n8n"/><br/>
+          <b>Lead Processing Automation</b>
+        </a>
+        <br/>
+        <sub>n8n · Groq AI · Google Sheets · Docker</sub>
+        <br/>
+        <img src="https://img.shields.io/badge/Automation-blue?style=flat-square"/>
+      </td>
+      <td align="center" width="180">
+        <a href="https://github.com/juanchiscol/kawsayar-frontend">
+          <img src="https://skillicons.dev/icons?i=react,expo,ts" width="80" alt="Kawsayar"/><br/>
+          <b>Kawsayar Frontend</b>
+        </a>
+        <br/>
+        <sub>Expo · React Native · TypeScript · AI</sub>
+        <br/>
+        <img src="https://img.shields.io/badge/AI%20Health-red?style=flat-square"/>
+      </td>
+      <td align="center" width="180">
+        <a href="https://github.com/juanchiscol/municipal-waste-management-system">
+          <img src="https://skillicons.dev/icons?i=ts,nodejs,react" width="80" alt="Waste Management"/><br/>
+          <b>Municipal Waste System</b>
+        </a>
+        <br/>
+        <sub>Full Stack · Automation · Dashboard</sub>
+        <br/>
+        <img src="https://img.shields.io/badge/Smart%20City-green?style=flat-square"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="180">
+        <a href="https://github.com/juanchiscol/ConsultaReniec">
+          <img src="https://skillicons.dev/icons?i=api,python" width="80" alt="Consulta Reniec"/><br/>
+          <b>Consulta Reniec</b>
+        </a>
+        <br/>
+        <sub>API · Perú · Data Query</sub>
+        <br/>
+        <img src="https://img.shields.io/badge/Public%20API-orange?style=flat-square"/>
+      </td>
+      <td align="center" width="180">
+        <a href="https://github.com/juanchiscol/model_anemia-detection-conjunctiva">
+          <img src="https://skillicons.dev/icons?i=python,ai" width="80" alt="Anemia Model"/><br/>
+          <b>Anemia Detection Model</b>
+        </a>
+        <br/>
+        <sub>AI · Health · Research</sub>
+        <br/>
+        <img src="https://img.shields.io/badge/ML%20Model-purple?style=flat-square"/>
+      </td>
+      <td></td>
+    </tr>
+  </table>
 
-### [kawsayar-frontend](https://github.com/juanchiscol/kawsayar-frontend)
-Mobile app for non-invasive anemia detection using AI and image processing. Expo, React Native, TypeScript, custom backend integration.
-
-### [municipal-waste-management-system](https://github.com/juanchiscol/municipal-waste-management-system)
-Municipal waste management system. Full Stack TypeScript, automation, and dashboard.
-
-### [consulta-reniec](https://github.com/juanchiscol/ConsultaReniec)
-Public API integration for citizen data queries in Peru.
-
-### [model_anemia-detection-conjunctiva](https://github.com/juanchiscol/model_anemia-detection-conjunctiva)
-Model for Predicting Anemia in Children Under 5 Years of Age in Pimentel Using the Palpebral Conjunctiva
+</div>
 
 ## 📫 Contact
 <div align="center">
