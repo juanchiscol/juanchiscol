@@ -28,19 +28,6 @@ Specialized in automation, API integration, database management, and web/mobile 
 
 <details open> 
   <summary><h2>🌟 Featured Projects</h2></summary>
-   <p align="left">
-    <a href="https://github.com/juanchiscol/lead-processing-automation-n8n"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=juanchiscol&repo=lead-processing-automation-n8n&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="lead-processing-automation-n8n"></a>
-    <a href="https://github.com/juanchiscol/SACN-TESIS-FRONTEND"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=juanchiscol&repo=SACN-TESIS-FRONTEND&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="SACN-TESIS-FRONTEND"></a>
-  <a href="https://github.com/juanchiscol/municipal-waste-management-system"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=juanchiscol&repo=municipal-waste-management-system&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="/municipal-waste-management-system"></a>
-  <a href="https://github.com/juanchiscol/ConsultaReniec"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=juanchiscol&repo=ConsultaReniec&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ConsultaReniec"></a>
-  <a href="https://github.com/juanchiscol/model_anemia-detection-conjunctiva"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=juanchiscol&repo=model_anemia-detection-conjunctiva&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="model_anemia-detection-conjunctiva"></a>
-
-<a href="https://github.com/juanchiscol?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-
-</details>
-
-## 🌟 Featured Projects
-
 <div align="center">
   <table>
     <tr>
@@ -102,6 +89,9 @@ Specialized in automation, API integration, database management, and web/mobile 
     </tr>
   </table>
 </div>
+
+</details>
+
 
 <details open> 
   <summary><h2>📫 Contact</h2></summary>
