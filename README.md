@@ -103,23 +103,11 @@ Specialized in automation, API integration, database management, and web/mobile 
   </a>
 </div>
 
-## 📊 GitHub Stats:
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanchiscol&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
-<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=juanchiscol&theme=tokyonight&hide_border=true)
-<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juanchiscol&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
 <details> 
   <summary><h2>📊 GitHub Stats</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
 
-  <!-- GitHub Readme Streak Stats - https://github.com/juanchiscol/github-readme-streak-stats -->
   <p>
     <a href="https://github.com/juanchiscol/github-readme-streak-stats">
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
