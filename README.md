@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Full+Stack+Web+%26+Mobile+Developer;Systems+%26+Computer+Engineer;Automation+%26+API+Integration)](https://git.io/typing-svg)
 
+**Bachelor's Degree in Systems and Computer Engineering**
+
 </div>
 
 ---
@@ -23,35 +25,16 @@ Systems and Computer Engineer passionate about building scalable products and au
 
 <div align="center">
 
-**Frontend & Mobile**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend**
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Database & DevOps**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Automation & Tools**
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+| | |
+|---|---|
+| 🚀 **Languages** | [![Languages](https://skillicons.dev/icons?i=php,py,java,js,ts&perline=8)](https://skillicons.dev) |
+| 🌐 **Frontend** | [![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,vite&perline=8)](https://skillicons.dev) |
+| 📱 **Mobile** | [![Mobile](https://skillicons.dev/icons?i=react,flutter,expo&perline=8)](https://skillicons.dev) |
+| 🧩 **Backend** | [![Backend](https://skillicons.dev/icons?i=laravel,flask,nodejs&perline=8)](https://skillicons.dev) |
+| 🗄️ **Database** | [![Database](https://skillicons.dev/icons?i=mysql,postgres,oracle&perline=8)](https://skillicons.dev) |
+| ⚙️ **DevOps** | [![DevOps](https://skillicons.dev/icons?i=docker,linux,vercel&perline=8)](https://skillicons.dev) |
+| 🧠 **Skills** | [![Skills](https://skillicons.dev/icons?i=git,github,wordpress,n8n&perline=8)](https://skillicons.dev) |
+| 🛠️ **Tools** | [![Tools](https://skillicons.dev/icons?i=vscode,figma,postman,photoshop&perline=8)](https://skillicons.dev) |
 
 </div>
 <details open>
