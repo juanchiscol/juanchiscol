@@ -26,12 +26,13 @@ Specialized in automation, API integration, database management, and web/mobile 
 **DevOps & Deployment:** Docker, Vercel, Server Management<br>
 **Other:** API Integration, Automated Workflows, QA Testing
 
-<details open> 
-  <summary><h2>🌟 Featured Projects</h2></summary>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="160">
+
+<details open>
+  <summary><h2 align="center">🌟 Featured Projects</h2></summary>
+  <div align="center">
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 32px; margin: 32px 0;">
+      
+      <div align="center" style="width: 180px; background: #23272f; border-radius: 18px; box-shadow: 0 4px 16px #0002; padding: 18px 10px; margin: 8px;">
         <a href="https://github.com/juanchiscol/lead-processing-automation-n8n">
           <img src="https://skillicons.dev/icons?i=docker,n8n,googlecloud" width="60" alt="n8n"/>
           <br/>
@@ -41,8 +42,9 @@ Specialized in automation, API integration, database management, and web/mobile 
         <sub>n8n · Groq AI · Google Sheets · Docker</sub>
         <br/>
         <img src="https://img.shields.io/badge/Automation-blue?style=flat-square"/>
-      </td>
-      <td align="center" width="160">
+      </div>
+
+      <div align="center" style="width: 180px; background: #23272f; border-radius: 18px; box-shadow: 0 4px 16px #0002; padding: 18px 10px; margin: 8px;">
         <a href="https://github.com/juanchiscol/kawsayar-frontend">
           <img src="https://skillicons.dev/icons?i=react,expo,ts" width="60" alt="Kawsayar"/>
           <br/>
@@ -52,8 +54,9 @@ Specialized in automation, API integration, database management, and web/mobile 
         <sub>Expo · React Native · TypeScript · AI</sub>
         <br/>
         <img src="https://img.shields.io/badge/AI%20Health-red?style=flat-square"/>
-      </td>
-      <td align="center" width="160">
+      </div>
+
+      <div align="center" style="width: 180px; background: #23272f; border-radius: 18px; box-shadow: 0 4px 16px #0002; padding: 18px 10px; margin: 8px;">
         <a href="https://github.com/juanchiscol/municipal-waste-management-system">
           <img src="https://skillicons.dev/icons?i=ts,nodejs,react" width="60" alt="Waste Management"/>
           <br/>
@@ -63,10 +66,11 @@ Specialized in automation, API integration, database management, and web/mobile 
         <sub>Full Stack · Automation · Dashboard</sub>
         <br/>
         <img src="https://img.shields.io/badge/Smart%20City-green?style=flat-square"/>
-      </td>
-      <td align="center" width="160">
+      </div>
+
+      <div align="center" style="width: 180px; background: #23272f; border-radius: 18px; box-shadow: 0 4px 16px #0002; padding: 18px 10px; margin: 8px;">
         <a href="https://github.com/juanchiscol/ConsultaReniec">
-          <img src="https://skillicons.dev/icons?i=,python" width="60" alt="Consulta Reniec"/>
+          <img src="https://skillicons.dev/icons?i=python" width="60" alt="Consulta Reniec"/>
           <br/>
           <b>Consulta Reniec</b>
         </a>
@@ -74,8 +78,9 @@ Specialized in automation, API integration, database management, and web/mobile 
         <sub>API · Perú · Data Query</sub>
         <br/>
         <img src="https://img.shields.io/badge/Public%20API-orange?style=flat-square"/>
-      </td>
-      <td align="center" width="160">
+      </div>
+
+      <div align="center" style="width: 180px; background: #23272f; border-radius: 18px; box-shadow: 0 4px 16px #0002; padding: 18px 10px; margin: 8px;">
         <a href="https://github.com/juanchiscol/model_anemia-detection-conjunctiva">
           <img src="https://skillicons.dev/icons?i=python,ai" width="60" alt="Anemia Model"/>
           <br/>
@@ -85,11 +90,10 @@ Specialized in automation, API integration, database management, and web/mobile 
         <sub>AI · Health · Research</sub>
         <br/>
         <img src="https://img.shields.io/badge/ML%20Model-purple?style=flat-square"/>
-      </td>
-    </tr>
-  </table>
-</div>
+      </div>
 
+    </div>
+  </div>
 </details>
 
 
