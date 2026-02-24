@@ -8,104 +8,6 @@
   <b>Full Stack Web/Mobile Developer</b><br/>
   <b>Database Management & Server Deployment</b>
   <br/>
-  <a href="#english">English version below ⬇️</a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=36BCF7&size=28&center=true&vCenter=true&width=900&height=80&lines=Full+Stack+Developer+%F0%9F%92%BB;Ingeniero+de+Sistemas+%F0%9F%93%96;Web+%2F+Mobile+Solutions+%F0%9F%92%8E;Laravel+%7C+Flutter+%7C+n8n+%7C+QA+%7C+Bostrapp+%7C+Oracle+%7C+WordPress" alt="Typing SVG">
-</div>
-
-
-
-## 🚀 Sobre mí
-
-🎓 Bachiller en Ingeniería de Sistemas y Computación, apasionado por la tecnología y el desarrollo de soluciones digitales innovadoras.
-
-💻 Full Stack Developer con experiencia en **Laravel**, **Flutter**, **React/React Native**, **n8n**, **QA**, **Bostrapp**, **Oracle**, **WordPress** y despliegue en servidores.
-
-🌎 Me especializo en automatización, integración de APIs, gestión de bases de datos y despliegue de aplicaciones web/móviles.
-
----
-
-
-## 🛠️ Tech Stack & Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,flutter,python,java,html,css,tailwind,bootstrap,wordpress,mysql,postgres,oracle,git,github,vscode,figma,postman,docker"/>
-</div>
-
-**Frameworks & Platforms:** Laravel, Flutter, React, React Native, n8n, QA, Bostrapp, WordPress<br>
-**Database:** MySQL, PostgreSQL, Oracle<br>
-**DevOps & Deployment:** Docker, Vercel, Server Management<br>
-**Other:** API Integration, Automated Workflows, QA Testing
-
----
-
-## 🌟 Featured Projects / Proyectos Destacados
-
-### [lead-processing-automation-n8n](https://github.com/juanchiscol/lead-processing-automation-n8n)
-Automatización de leads con n8n y Groq AI. Clasificación inteligente, integración con Google Sheets y respuestas automáticas por email. Despliegue en Docker/n8n Cloud.
-
-### [kawsayar-frontend](https://github.com/juanchiscol/kawsayar-frontend)
-App móvil para detección no invasiva de anemia usando IA y procesamiento de imágenes. Expo, React Native, TypeScript, integración con backend propio.
-
-### [municipal-waste-management-system](https://github.com/juanchiscol/municipal-waste-management-system)
-Sistema de gestión de residuos municipales. Full Stack TypeScript, automatización y panel de control.
-
-### [ConsultaReniec](https://github.com/juanchiscol/ConsultaReniec)
-Integración de APIs públicas para consulta de datos ciudadanos en Perú.
-
-### Otros: **TEC**, **QA Automation**, **Bostrapp**, **WordPress Deployments**, **Oracle DB Projects**
-
----
-
----
-
-## 📫 Contact
-<div align="center">
-  <a href="mailto:chiscolpatazcajuandavid@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/juanchiscol/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/juanchiscol">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-      </td>
-</div>
-
----
-
-
-## 📊 GitHub Stats & Badges
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanchiscol&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanchiscol&theme=tokyonight&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanchiscol&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=juanchiscol&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
-</div>
-
----
-
----
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in/api?id=juanchiscol&icon=0&color=0">
-    <img src="https://visitcount.itsvg.in/api?id=juanchiscol&icon=0&color=0" alt="Profile views"/>
-  </a>
-</div>
-
----
-
-<h2 id="english">🇬🇧 English Version</h2>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=36BCF7&size=28&center=true&vCenter=true&width=900&height=80&lines=Full+Stack+Developer+%F0%9F%92%BB;Systems+Engineer+%F0%9F%93%96;Web+%2F+Mobile+Solutions+%F0%9F%92%8E;Laravel+%7C+Flutter+%7C+n8n+%7C+QA+%7C+Bostrapp+%7C+Oracle+%7C+WordPress" alt="Typing SVG">
 </div>
 
 ## 🚀 About Me
@@ -120,7 +22,7 @@ Integración de APIs públicas para consulta de datos ciudadanos en Perú.
 
 ## 🛠️ Tech Stack & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,flutter,python,java,html,css,tailwind,bootstrap,wordpress,mysql,postgres,oracle,git,github,vscode,figma,postman,docker"/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,flutter,python,java,html,css,tailwind,bootstrap,wordpress,mysql,postgres,linux,git,github,vscode,figma,postman,docker"/>
 </div>
 
 **Frameworks & Platforms:** Laravel, Flutter, React, React Native, n8n, QA, Bostrapp, WordPress<br>
@@ -161,4 +63,26 @@ Public API integration for citizen data queries in Peru.
   </a>
 </div>
 
+---
+
+## 📊 GitHub Stats & Badges
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juanchiscol&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanchiscol&theme=tokyonight&hide_border=true"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanchiscol&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=juanchiscol&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+</div>
+
+---
+
+---
+
+<div align="center">
+  <a href="https://visitcount.itsvg.in/api?id=juanchiscol&icon=0&color=0">
+    <img src="https://visitcount.itsvg.in/api?id=juanchiscol&icon=0&color=0" alt="Profile views"/>
+  </a>
+</div>
 ---
