@@ -29,45 +29,16 @@ Specialized in automation, API integration, database management, and web/mobile 
 <details open>
   <summary><h2>🌟 Featured Projects</h2></summary>
 
+
 <div align="center">
 
-### ⚡ Lead Processing Automation
-
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/juanchiscol/lead-processing-automation-n8n)
-[![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://github.com/juanchiscol/lead-processing-automation-n8n)
-[![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)](https://github.com/juanchiscol/lead-processing-automation-n8n)
-[![Groq](https://img.shields.io/badge/Groq_AI-F55036?style=for-the-badge&logo=groq&logoColor=white)](https://github.com/juanchiscol/lead-processing-automation-n8n)
-
----
-
-### 💊 Kawsayar Frontend
-
-[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/juanchiscol/kawsayar-frontend)
-[![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://github.com/juanchiscol/kawsayar-frontend)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/juanchiscol/kawsayar-frontend)
-
----
-
-### 🏙️ Municipal Waste System
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/juanchiscol/municipal-waste-management-system)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/juanchiscol/municipal-waste-management-system)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/juanchiscol/municipal-waste-management-system)
-
----
-
-### 🔌 Consulta Reniec
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/juanchiscol/ConsultaReniec)
-[![API REST](https://img.shields.io/badge/API_REST-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://github.com/juanchiscol/ConsultaReniec)
-
----
-
-### 🧠 Anemia Detection Model
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/juanchiscol/model_anemia-detection-conjunctiva)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/juanchiscol/model_anemia-detection-conjunctiva)
-[![Computer Vision](https://img.shields.io/badge/Computer_Vision-8B5CF6?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/juanchiscol/model_anemia-detection-conjunctiva)
+| Project | Stack | Category |
+|:-------:|:-----:|:--------:|
+| **[⚡ Lead Processing Automation](https://github.com/juanchiscol/lead-processing-automation-n8n)** <br/> <sub>Automatización de leads con IA y Google Sheets</sub> | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white) | ![](https://img.shields.io/badge/Automation-2496ED?style=for-the-badge) |
+| **[💊 Kawsayar Frontend](https://github.com/juanchiscol/kawsayar-frontend)** <br/> <sub>App móvil de salud con React Native y TypeScript</sub> | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![](https://img.shields.io/badge/AI%20Health-ef4444?style=for-the-badge) |
+| **[🏙️ Municipal Waste System](https://github.com/juanchiscol/municipal-waste-management-system)** <br/> <sub>Sistema full stack de gestión de residuos</sub> | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![](https://img.shields.io/badge/Smart%20City-22c55e?style=for-the-badge) |
+| **[🔌 Consulta Reniec](https://github.com/juanchiscol/ConsultaReniec)** <br/> <sub>Consulta de datos del RENIEC vía API pública</sub> | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white) | ![](https://img.shields.io/badge/Public%20API-f97316?style=for-the-badge) |
+| **[🧠 Anemia Detection Model](https://github.com/juanchiscol/model_anemia-detection-conjunctiva)** <br/> <sub>Modelo de visión computacional para detección de anemia</sub> | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | ![](https://img.shields.io/badge/ML%20Model-a855f7?style=for-the-badge) |
 
 </div>
 
