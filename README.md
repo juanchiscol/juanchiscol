@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-**Bachelor’s Degree in Systems and Computer Engineering | Full Stack Web/Mobile Developer | Database Management & Server Deployment**
+**Systems and Computer Engineer | Full Stack Web/Mobile Developer | Database Management & Server Deployment**
 
 🔭 Currently working on AI-powered automation workflows with n8n  
 💻 Experienced in designing, developing, and deploying scalable web and mobile applications  
